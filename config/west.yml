@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zmk
       remote: bobobo1618
-      revision: main
+      revision: fix-oled 
       import: app/west.yml
   self:
     path: config
